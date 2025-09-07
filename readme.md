@@ -13,6 +13,7 @@ A fast, elegant, and customizable search & filter application built with Vue.js.
 - 🌓 Dark mode (optional)
 - 📱 Mobile responsive
 
+
 ## 📦 Tech Stack
 
 - Vue 3 (Composition API)
